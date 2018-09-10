@@ -36,7 +36,7 @@ If you already have a personal GitHub account, feel free to use that -- no need 
     Note that you can also click the "Upload files" button instead to add images, movies, or other file times to your repository.
 
 2.  Give your new file a sensible name, like "puzzle1.js". The file extension you choose  (".js" here) should match
-    the programming language used in the file; for Rudy, that's javascript, so use ".js". 
+    the programming language used in the file; for p5.js, that's javascript, so use ".js". 
     For Processing, use ".pde"; for Arduino, use ".ino".
     
     Then, paste your code into the "Edit new file" tab.
